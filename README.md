@@ -1,5 +1,5 @@
 # repositorio-proyectos-academicos
-Este repositorio agrupa distintos proyectos realizados a lo largo de la carrera de Licenciatura en Sistemas (UNGS). Cada carpeta corresponde a un proyecto específico e incluye:
+Este repositorio esta en proceso de construcción y agrupa distintos proyectos realizados a lo largo de la carrera de Licenciatura en Sistemas (UNGS). Cada carpeta corresponde a un proyecto específico e incluye:
 
 -  Código fuente (cuando está disponible)
 -  Informe técnico presentado
