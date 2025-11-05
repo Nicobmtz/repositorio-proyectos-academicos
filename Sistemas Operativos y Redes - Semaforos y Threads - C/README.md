@@ -44,3 +44,9 @@ Utilicé semáforos para gestionar el acceso a recursos compartidos y garantizar
 
 - Reestructurar el código por **actores** (invitados, mozos, Manucho) en lugar de por momentos (sentarse, comer, levantarse).
 - Crear funciones que agrupen toda la actividad de cada actor, en lugar de conectar acciones únicamente mediante semáforos, para mejorar la claridad y modularidad del código.
+
+---
+
+## Contexto académico
+
+Trabajo realizado para la materia Sistemas Operativos y Redes - UNGS año 2025
